@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pboulus
 - 👀 I’m interested in public policy, the energy transition, and data
-- 🌱 I’m currently learning how to automate my analytics workflows as much as psosible
+- 🌱 Learning to stay current on analytics methods 
 - 💞️ I’m looking to collaborate on solving policy dilemmas with data
 
 <!---
